@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+# no changes made 
 import torch
 from librosa.filters import mel as librosa_mel_fn
 from audio_processing import dynamic_range_compression, dynamic_range_decompression

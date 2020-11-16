@@ -1,3 +1,6 @@
+# from https://github.com/NVIDIA/tacotron2
+# no chnages made
+
 import time
 import torch
 import sys

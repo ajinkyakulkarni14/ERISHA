@@ -8,18 +8,45 @@
 
 <div align="left">
 
-ERISHA is a multispeaker expressive speech synthesis framework. It can transfer the expressivity to the speaker's voice for which no expressive speech corpus is available. The term ERISHA means speech in Sanskrit. The framework of ERISHA includes various deep learning architectures such as Global Style Token (GST), Variational Autoencoder  (VAE), and Gaussian Mixture Variational Autoencoder (GMVAE), X-vectors for building prosody encoder. 
+ERISHA is a multispeaker expressive speech synthesis framework. It can transfer the expressivity to the speaker's voice for which no expressive speech corpus is available. The term ERISHA means speech in Sanskrit. The framework of ERISHA includes various deep learning architectures such as Global Style Token (GST), Variational Autoencoder  (VAE), and Gaussian Mixture Variational Autoencoder (GMVAE), and X-vectors for building prosody encoder. 
 
 
 Currently, the library is in its initial stage of development and will be updated frequently in the coming days.
 
 Stay tuned for more updates, and we are open to collaboration !!!
 
+## Installtation and Training
+
+Refer INSTALL for initial setup
+
+Training:
+
+`python train.py --output_directory=outdir --log_directory=logdir`
+
+Or
+
+For multi-gpu training
+
+`python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
+
+## Available recipes
+([↑up to contents](#contents))
+* [x] [Global Style Token GST](https://arxiv.org/abs/1803.09017)
+* [x] [Variational Autoencoder VAE](https://arxiv.org/abs/1812.04342)
+* [x] [Gaussian Mixture VAE GMVAE](https://arxiv.org/abs/1810.07217)
+* [x] [X-vectors](Proposed work)
+
+## Upcoming updates
+([↑up to contents](#contents))
+* [x] [Multiclass N-pair loss](https://hal.archives-ouvertes.fr/hal-02978485/document)
+* [x] [Cluster sampling for improving latent representation of speaker and expressivity](Proposed work)
+* [x] [PytorchLightning](https://www.pytorchlightning.ai/)
+
 
   
 ## Acknowledgements
-This implementation uses code from the following repos: [Keith
+This implementation uses code from the following repos: [NVIDIA](https://github.com/NVIDIA/tacotron2), [Keith
 Ito](https://github.com/keithito/tacotron/), [Prem
 Seetharaman](https://github.com/pseeth/pytorch-stft), 
 [Chengqi Deng](https://github.com/KinglittleQ/GST-Tacotron),[Dannynis](https://github.com/Dannynis/xvector_pytorch),
-[Jhosimar George Arias Figueroa](https://github.com/jariasf/GMVAE/), [NVIDIA](https://github.com/NVIDIA/tacotron2)
+[Jhosimar George Arias Figueroa](https://github.com/jariasf/GMVAE/)

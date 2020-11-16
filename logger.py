@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+# chnages made by Ajinkya Kulkarni in class Tacotron2Logger
 import random
 import torch
 from torch.utils.tensorboard import SummaryWriter

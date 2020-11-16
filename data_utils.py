@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+# Modified dataloaders, collate classes for multispeaker expressive setting by Ajinkya Kulkarni
 import random
 import numpy as np
 import torch

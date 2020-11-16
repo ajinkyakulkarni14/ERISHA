@@ -1,3 +1,6 @@
+# from https://github.com/NVIDIA/tacotron2
+# no chnages made
+
 import numpy as np
 from scipy.io.wavfile import read
 import torch

@@ -1,1 +1,11 @@
 INSTALLTION INSTRUCTION
+
+Pre-requisites:
+
+1. NVIDIA GPU + CUDA cuDNN
+
+Install PyTorch 1.0 or above
+
+Install Apex, (https://github.com/NVIDIA/apex)
+
+Install python requirements: `pip install -r requirements.txt

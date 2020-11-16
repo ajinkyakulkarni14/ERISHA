@@ -1,3 +1,6 @@
+# from https://github.com/NVIDIA/tacotron2
+# Changes made in class Tacotron2 and class Decoder by Ajinkya Kulkarni
+
 from modules import SpeakerEncoderNetwork, ExpressiveEncoderNetwork
 from math import sqrt
 import torch

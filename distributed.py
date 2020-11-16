@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+
 import torch
 import torch.distributed as dist
 from torch.nn.modules import Module

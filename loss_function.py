@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+# Modified by Ajinkya Kulkarni
 from torch import nn
 import numpy as np
 import torch

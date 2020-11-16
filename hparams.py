@@ -1,3 +1,6 @@
+# from https://github.com/NVIDIA/tacotron2
+# Modified by Ajinkya Kulkarni
+
 from text import symbols
 
 

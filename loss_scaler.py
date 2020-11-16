@@ -1,3 +1,5 @@
+# from https://github.com/NVIDIA/tacotron2
+# no chnages made
 import torch
 
 class LossScaler:
