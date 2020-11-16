@@ -30,14 +30,14 @@ For multi-gpu training
 `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
 
 ## Available recipes
-([↑up to contents](#contents))
+
 * [x] [Global Style Token GST](https://arxiv.org/abs/1803.09017)
 * [x] [Variational Autoencoder VAE](https://arxiv.org/abs/1812.04342)
 * [x] [Gaussian Mixture VAE GMVAE](https://arxiv.org/abs/1810.07217)
 * [x] [X-vectors](Proposed work)
 
 ## Upcoming updates
-([↑up to contents](#contents))
+
 * [x] [User documnetation]
 * [x] [Pytorch Lightning](https://www.pytorchlightning.ai/)
 * [x] [Multiclass N-pair loss](https://hal.archives-ouvertes.fr/hal-02978485/document)
