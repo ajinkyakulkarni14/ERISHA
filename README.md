@@ -15,7 +15,7 @@ Currently, the library is in its initial stage of development and will be update
 
 Stay tuned for more updates, and we are open to collaboration !!!
 
-## Installtation and Training
+## Installation and Training
 
 Refer INSTALL for initial setup
 
@@ -38,7 +38,7 @@ For multi-gpu training
 
 ## Upcoming updates
 
-* [x] [User documnetation]
+* [x] [User Documentation]
 * [x] [Pytorch Lightning](https://www.pytorchlightning.ai/)
 * [x] [Multiclass N-pair loss](https://hal.archives-ouvertes.fr/hal-02978485/document)
 * [x] [Cluster sampling for improving latent representation of speaker and expressivity](Proposed work)
