@@ -1,4 +1,5 @@
 <div align="center">
+  
 # ERISHA: Multispeaker Expressive Text-to-Speech Library
 
 ![Multispeaker Expressive Text-to-Speech Library](erisha.png)
@@ -6,6 +7,7 @@
 ## Ajinkya Kulkarni, Ioannis Douros, Rituporna Dowerah, Vincent Colotte, Denis Jouvet
 
 <div align="left">
+  
 ## Acknowledgements
 This implementation uses code from the following repos: [Keith
 Ito](https://github.com/keithito/tacotron/), [Prem
