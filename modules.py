@@ -1,3 +1,4 @@
+# modules.py includes various encoders, GST, VAE, GMVAE, X-vectors
 # adapted from https://github.com/KinglittleQ/GST-Tacotron/blob/master/GST.py
 # MIT License
 #
