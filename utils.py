@@ -1,5 +1,5 @@
 # from https://github.com/NVIDIA/tacotron2
-# no chnages made
+# modified load_wav_to_torch, resampling to match the target_sampling_rate
 
 import numpy as np
 from scipy.io.wavfile import read
@@ -13,9 +13,11 @@ def get_mask_from_lengths(lengths):
     return mask
 
 
-def load_wav_to_torch(full_path):
-    sampling_rate, data = read(full_path)
-    return torch.FloatTensor(data.astype(np.float32)), sampling_rate
+def load_wav_to_torch(full_path, target_sampling_rate):
+    sr, data = read(full_path)
+    if sr != sampling_rate:
+        data = librosa.resample(data.astype(np.float32), sr, target_sampling_rate)
+    return torch.FloatTensor(data.astype(np.float32)), target_sampling_rate
 
 
 def load_filepaths_and_text(filename, split="|"):
