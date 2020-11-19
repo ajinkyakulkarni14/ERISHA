@@ -1,0 +1,158 @@
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2289_neutral_253-280_0276.wav|Oolong Atoll was one hundred and forty miles in circumference.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1900_disgust_449-476_0472.wav|He is too keenly intelligent, too sharply sensitive, successfully to endure.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5483_sleepiness_421-448_0422.wav|Halfway around the track one donkey got into an argument with its rider.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4464_amused_169-196_0175.wav|Down there the earth was already swelling with life.|2|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1889_Disgust_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5870_anger_421-448_0430.wav|Nevertheless we found ourselves once more in the high seat of abundance.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2544_sleepiness_367-392_0388.wav|It was my idea to a tee.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5947_anger_57-84_0070.wav|He would first hunt up Gregson and begin his work there.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6098_amused_57-84_0060.wav|Anyway, no one saw her like that.|1|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4562_disgust_533-560_0538.wav|What Pascal glimpsed with the vision of a seer, I have lived.|1|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6074_anger_505-532_0523.wav|They could not continue their method of producing surpluses.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4653_disgust_141-168_0156.wav|A strange fire burned in his eyes when Thorpe turned.|1|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5811_anger_369-392_0370.wav|He saw all men in the business game doing this.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4460_amused_197-224_0216.wav|The other felt a sudden wave of irritation rush through him.|2|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4590_disgust_253-280_0276.wav|Oolong Atoll was one hundred and forty miles in circumference.|1|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1234_Neutral_29-56_0041.wav|Meanwhile I'll go out to breathe a spell.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4702_neutral_29-56_0040.wav|I suppose you wonder why she is coming up here.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2061_neutral_29-56_0049.wav|Gregson was asleep when he re-entered the cabin.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/406_sleepiness_141-168_0162.wav|That's the sub-foreman, explained Thorpe.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2750_sleepiness_281-308_0294.wav|He had been foiled in his attempt to escape.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4238_sleepiness_57-84_0075.wav|There has been a change, she interrupted him.|2|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4083_sleepiness_29-56_0046.wav|The girl faced him, her eyes shining with sudden fear.|2|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6005_anger_85-112_0089.wav|The nightglow was treacherous to shoot by.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6242_amused_309-336_0329.wav|Ah, indeed.|1|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2912_anger_141-168_0162.wav|That's the sub-foreman, explained Thorpe.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2077_neutral_336-364_0353.wav|Here the explosion of mirth drowned him out.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3350_amused_253-280_0271.wav|Now please give a plain statement of what occurred.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4757_neutral_197-364_0241.wav|I think it's much nicer to quarrel.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5731_anger_113-140_0115.wav|He had no excuse for the feelings which were aroused in him.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1618_Disgust_225-252_0241.wav|I think it's much nicer to quarrel.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5540_sleepiness_309-336_0313.wav|Broken-Tooth yelled with fright and pain.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2843_anger_169-196_0172.wav|Gregson had left the outer door slightly ajar.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3275_amused_85-112_0093.wav|For a full minute he crouched and listened.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3582_amused_449-476_0473.wav|The night was calm and snowy.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/61_anger_281-308_0287.wav|Keep an eye on him.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1794_Disgust_197-224_0213.wav|Between him and the beach was the cane-grass fence of the compound.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2451_sleepiness_449-476_0465.wav|He'll never do a tap of work the whole Voyage.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3278_amused_393-420_0406.wav|And that was the last of Francois and Perrault.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/49_anger_225-252_0230.wav|Do you know any good land around here.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/495_sleepiness_449-476_0462.wav|But she swung obediently on her heel into the wind.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1748_Disgust_141-168_0149.wav|For an instant he saw Pierre drawn like a silhouette against the sky.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3817_neutral_85-112_0102.wav|He will follow us soon.|2|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/95_anger_85-112_0100.wav|You must sleep, he urged.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4532_disgust_85-112_0103.wav|But there came no promise from the bow of the canoe.|1|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4845_neutral_197-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5086_neutral_85-112_0101.wav|You, you would not keep the truth from me.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3109_anger_253-280_0267.wav|Eli Harding asked, as Shunk started to follow.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4292_amused_197-224_0199.wav|Thus had the raw wilderness prepared him for this day.|2|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2747_sleepiness_141-168_0146.wav|Of course, that is uninteresting, she continued.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6303_amused_113-136_0122.wav|Two years ago I gave up civilization for this.|1|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3902_neutral_113-140_0132.wav|A cry of joy burst from Philip's lips.|2|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4423_amused_281-308_0303.wav|But they make the mistake of ignoring their own duality.|2|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5140_sleepiness_141-168_0145.wav|I have to be careful of them, as they tear very easily.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2930_anger_169-196_0179.wav|Tomorrow I'm going after that bear, he said.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4474_amused_27-56_0040.wav|I suppose you wonder why she is coming up here.|2|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4252_sleepiness_1-28_0005.wav|Will we ever forget it.|2|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/802_amused_46-56_0048.wav|He looked at the handkerchief more, closely.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2420_sleepiness_253-280_0266.wav|They handled two men already, both grub-thieves.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/410_sleepiness_141-168_0156.wav|A strange fire burned in his eyes when Thorpe turned.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4094_sleepiness_1-28_0028.wav|Robbery, bribery, fraud,|2|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2991_anger_309-336_0325.wav|Whiz-zip-bang. Lop-Ear screamed with sudden anguish.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/353_sleepiness_141-168_0145.wav|I have to be careful of them, as they tear very easily.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2809_anger_367-392_0370.wav|He saw all men in the business game doing this.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2990_anger_85-112_0091.wav|His blood grew hot with rage at the thought.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2153_neutral_477-504_0478.wav|Also, she has forbidden them smoking their pipes in the after-room.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4958_neutral_57-84_0077.wav|It is the fire, partly, she said.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1210_neutral_141-168_0141.wav|It seems like a strange pointing of the hand of God.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1410_neutral_113-140_0131.wav|Providence had delivered him through the maelstrom.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2506_sleepiness_449-476_0468.wav|In the matter of curry she is a sheer genius.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/381_sleepiness_253-280_0256.wav|See the length of the body and that elongated neck.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1624_disgust_421-448_0427.wav|Enters now the psychology of the situation.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1134_neutral_169-196_0177.wav|She had been thoroughly and efficiently mauled.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2355_sleepiness_85-112_0106.wav|The emotion which she had suppressed burst forth now in a choking sob.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3484_amused_141-168_0165.wav|They are to attack your camp tomorrow night.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/318_sleepiness_449-476_0469.wav|The eastern heavens were equally spectacular.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2190_neutral_309-336_0333.wav|This is no place for you.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2483_sleepiness_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2440_sleepiness_113-140_0115.wav|He had no excuse for the feelings which were aroused in him.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2645_sleepiness_113-140_0137.wav|Then he stepped back with a low cry of pleasure.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/577_sleepiness_225-252_0250.wav|He had observed the business life of Hawaii and developed a vaulting ambition.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/794_sleepiness_309-336_0331.wav|Poor little Crooked-Leg was terribly scared.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2392_sleepiness_1-28_0012.wav|Gregson shoved back his chair and rose to his feet.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5608_anger_113-140_0114.wav|Her words sent a strange chill through Philip.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/68_anger_169-196_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3746_amused_141-168_0149.wav|For an instant he saw Pierre drawn like a silhouette against the sky.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2940_anger_421-448_0426.wav|They do not know the length of time of incubation.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3623_amused_29-56_0040.wav|I suppose you wonder why she is coming up here.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/974_amused_113-140_0138.wav|In the picture he saw each moment a greater resemblance to Jeanne.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5610_anger_197-224_0223.wav|My, I'm almost homesick for it already.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/789_sleepiness_281-307_0290.wav|One by one the boys were captured.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2367_sleepiness_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/991_amused_113-140_0139.wav|He told himself that as he washed himself and groomed his disheveled clothes.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4832_neutral_29-56_0049.wav|Gregson was asleep when he re-entered the cabin.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5482_sleepiness_449-476_0470.wav|He spat it out like so much venom.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1505_disgust_449-476_0467.wav|And so early in the voyage, too.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4912_neutral_197-364_0199.wav|Thus had the raw wilderness prepared him for this day.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5338_sleepiness_421-448_0446.wav|He deluged me, overwhelmed me with argument.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5177_sleepiness_449-476_0467.wav|And so early in the voyage, too.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2263_neutral_336-364_0343.wav|You mean for this State, General, Alberta.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/370_sleepiness_141-168_0164.wav|He came first a year ago, and revealed himself to Jeanne.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1002_amused_281-308_0305.wav|They had no fixed values, to be altered by adjectives and adverbs.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5849_anger_57-84_0057.wav|I have no idea, replied Philip.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3705_amused_309-336_0335.wav|Red-Eye swung back and forth on the branch farther down.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3962_neutral_113-140_0139.wav|He told himself that as he washed himself and groomed his disheveled clothes.|2|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5759_anger_281-308_0284.wav|There was no forecasting this strange girl's processes.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2176_neutral_85-112_0092.wav|He went down in midstream, searching the shadows of both shores.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5614_anger_169-196_0180.wav|If not, let's say our prayers and go to bed.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2002_neutral_85-112_0095.wav|A big canvas tent was the first thing to come within his vision.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4853_neutral_365-392_0375.wav|The butchers and meat cutters refused to handle meat destined for unfair restaurants.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2901_anger_197-224_0207.wav|How much was it.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/267_anger_225-252_0236.wav|Don't you see I hate you.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1620_Disgust_29-56_0051.wav|The lace was of a delicate ivory color, faintly tinted with yellow.|3|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3440_amused_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1240_neutral_197-224_0201.wav|He cried, and swung the club wildly.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1010_amused_85-112_0094.wav|He had barely entered this when he saw the glow of a fire.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1386_Neutral_29-56_0045.wav|He moved away as quietly as he had come.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2957_anger_141-168_0143.wav|Ah, I had forgotten, he exclaimed.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4934_neutral_85-112_0086.wav|Death had come with terrible suddenness.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2029_neutral_57-84_0063.wav|Yes, it was a man who asked, a stranger.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2708_sleepiness_393-420_0406.wav|And that was the last of Francois and Perrault.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1378_neutral_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1020_amused_16-28_0020.wav|Clubs and balls and cities grew to be only memories.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5459_sleepiness_169-196_0190.wav|Next to them the Canada jays were most persistent.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5647_anger_253-280_0270.wav|And after the bath a shave would not be bad.|1|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2450_sleepiness_281-308_0292.wav|Here, in the midmorning, the first casualty occurred.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1343_Neutral_29-56_0049.wav|Gregson was asleep when he re-entered the cabin.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5255_sleepiness_1-28_0015.wav|It's the aurora borealis.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2455_sleepiness_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5058_neutral_1-28_0016.wav|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/306_sleepiness_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4825_neutral_1-28_0002.wav|Not at this particular case, Tom, apologized Whittemore.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2758_sleepiness_197-224_0224.wav|She nodded, and her eyes grew soft and moist.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/258_anger_1-28_0016.wav|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2251_neutral_449-476_0467.wav|And so early in the voyage, too.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/800_sleepiness_281-307_0300.wav|From my earliest recollection my sleep was a period of terror.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5509_sleepiness_421-448_0426.wav|They do not know the length of time of incubation.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3011_anger_421-448_0435.wav|What do you mean by this outrageous conduct.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5541_sleepiness_477-504_0479.wav|I tried to read George Moore last night, and was dreadfully bored.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4559_disgust_85-112_0102.wav|He will follow us soon.|1|3
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/274_anger_1-28_0020.wav|Clubs and balls and cities grew to be only memories.|0|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2349_sleepiness_367-392_0370.wav|He saw all men in the business game doing this.|3|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2140_neutral_309-336_0309.wav|White Leghorns, said Mrs Mortimer.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2062_neutral_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/6273_amused_449-476_0460.wav|I had forgotten their existence.|1|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/2015_neutral_169-196_0169.wav|Suddenly Jeanne stopped for an instant.|3|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4738_neutral_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3802_neutral_197-224_0221.wav|I don't know why you're here at all.|2|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/4914_neutral_197-364_0281.wav|I do not blame you for anything; remember that.|1|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/5481_sleepiness_169-196_0196.wav|He began to follow the footprints of the dog.|1|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1187_neutral_281-308_0307.wav|Very early in my life, I separated from my mother.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1160_neutral_113-140_0014.wav|Now you're coming down to business, Phil, he exclaimed.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1078_neutral_309-336_0322.wav|This is a common experience with all of us.|0|0
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/659_sleepiness_29-56_0048.wav|He looked at the handkerchief more, closely.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/950_amused_196-224_0201.wav|He cried, and swung the club wildly.|0|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3194_anger_1-28_0020.wav|Clubs and balls and cities grew to be only memories.|3|1
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/3596_amused_113-140_0123.wav|She had died from cold and starvation.|3|2
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/490_sleepiness_393-420_0415.wav|It lasted as a deterrent for two days.|0|4
+/srv/storage/talc@talc-data.nancy/multispeech/calcul/users/akulkarni/mellotron_data/EmoVDB_corpus/wavs/1022_amused_1-15_0013.wav|He was a head shorter than his companion, of almost delicate physique.|0|2

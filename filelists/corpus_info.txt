@@ -1,0 +1,24 @@
+## LJSSpeech Corpus:
+
+Emotions: 1, Neutral
+
+Speakers: 1, Male
+
+## EmoVDB Corpus:
+
+Emotions: 5, Neutral, Anger, Amused, Disgust, Sleepiness
+
+Speakers: 4, 2 Male, 2 Female
+
+# Emotion Index:
+
+Neutral		0
+Anger		1
+Amused		2
+Disgust		3
+Sleepiness	4
+
+# Speaker Index:
+0-3	EmoVDB corpus
+4	LJSSpeech corpus
+

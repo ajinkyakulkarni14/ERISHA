@@ -36,6 +36,10 @@ For multi-gpu training
 * [x] [Gaussian Mixture VAE GMVAE](https://arxiv.org/abs/1810.07217)
 * [x] [X-vectors](Proposed work)
 
+## Available Features
+
+* [x] Resampling of speech waveforms to target sampling rate in recipes
+
 ## Upcoming updates
 
 * [x] [User Documentation]

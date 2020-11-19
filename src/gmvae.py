@@ -167,10 +167,7 @@ class InferenceNet(nn.Module):
     # p(z|y)
     y_mu, y_var = self.pzy(y)
 
-
-    output = {'mean': mu, 'var': var, 'gaussian': z, 
-              'logits': logits, 'prob_cat': prob, 'categorical': y, 'y_mean': y_mu, 'y_var': y_var}
-    return output
+    return (z, (z, mu, var, y_mu, y_var, prob, logits))
 
 
 # GMVAE Network
