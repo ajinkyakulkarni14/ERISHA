@@ -73,7 +73,7 @@ class Tacotron2Loss(nn.Module):
         else:
             cat_lambda = 0.0
         
-        return kl_lambda, cat_lambda
+        return min(1,kl_lambda), min(1,cat_lambda)
     
     def log_normal(self, x, mu, var):
         if eps > 0.0:

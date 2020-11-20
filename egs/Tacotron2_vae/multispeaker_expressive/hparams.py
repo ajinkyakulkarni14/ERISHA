@@ -11,7 +11,7 @@ epochs=500
 iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
-fp16_run=False
+fp16_run=True
 distributed_run=False
 dist_backend="nccl"
 dist_url="tcp://localhost:54321"
@@ -99,13 +99,13 @@ speaker_classes = 5
 
 
 cat_lambda = 0.0
-cat_incr = 0.000001
+cat_incr = 0.0001
 cat_step = 1000
-cat_step_after = 500
-cat_max_step = 300000
+cat_step_after = 50
+cat_max_step = 200000
 
 kl_lambda = 0.00001
-kl_incr = 0.000001
+kl_incr = 0.00001
 kl_step = 1000
 kl_step_after = 500
 kl_max_step = 300000

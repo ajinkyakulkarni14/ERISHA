@@ -11,7 +11,7 @@ epochs=500
 iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
-fp16_run=False
+fp16_run=True
 distributed_run=False
 dist_backend="nccl"
 dist_url="tcp://localhost:54321"
@@ -90,8 +90,8 @@ mask_padding=True  # set model's padded outputs to padded values
 #############################################
 
 
-speaker_encoder_type = 'x-vector'
-expressive_encoder_type = 'x-vector'
+speaker_encoder_type = 'gst'
+expressive_encoder_type = 'gst'
 
 
 emotion_classes = 5
@@ -99,7 +99,7 @@ speaker_classes = 5
 
 
 cat_lambda = 0.0
-cat_incr = 0.000001
+cat_incr = 0.00000001
 cat_step = 1000
 cat_step_after = 500
 cat_max_step = 300000
