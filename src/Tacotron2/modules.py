@@ -254,17 +254,15 @@ class VAE(nn.Module):
     def forward(self, inputs, input_lengths=None):
 
         enc_out = self.encoder(inputs, input_lengths=input_lengths)
-
-        #print(enc_out.shape)
       
         latent_mean = self.mean_linear(enc_out)
         latent_logvar = self.logvar_linear(enc_out)
         std = torch.exp(0.5 * latent_logvar)
         eps = torch.randn_like(std)
-        ze = eps.mul(std).add_(latent_mean)
+        z = eps.mul(std).add_(latent_mean)
         cat_prob = F.softmax(self.categorical_layer(ze), dim=-1)
-        #print(ze.unsqueeze(0).shape, cat_prob.shape)
-        return (ze, (latent_mean, latent_logvar, cat_prob))
+
+        return (z, (latent_mean, latent_logvar, cat_prob))
 
 
 
@@ -278,10 +276,10 @@ class GMVAE(nn.Module):
 
         enc_out = self.encoder(inputs, input_lengths=input_lengths)
 
-        out = self.gmvae(enc_out)
+        (z, (z, mu, var, y_mu, y_var, prob, logits)) = self.gmvae(enc_out)
         #print(out['prob_cat'].shape, out['logits'].shape)
 
-        return (out['gaussian'], (out['gaussian'], out['mean'], out['var'], out['y_mean'], out['y_var'], out['prob_cat'], out['logits']))
+        return (z, (z, mu, var, y_mu, y_var, prob, logits))
 
 
 

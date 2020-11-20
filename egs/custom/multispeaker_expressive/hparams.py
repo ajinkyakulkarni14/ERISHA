@@ -23,8 +23,8 @@ ignore_layers=['embedding.weight']
 # Data Parameters     #
 ################################
 load_mel_from_disk=False
-training_files='filelists/ljs_audio_text_train_filelist.txt'
-validation_files='filelists/ljs_audio_text_val_filelist.txt'
+training_files='../../../filelists/ljs_emovdb_train.txt'
+validation_files='../../../filelists/ljs_emovdb_val.txt'
 text_cleaners=['english_cleaners']
 
 ################################
@@ -90,12 +90,12 @@ mask_padding=True  # set model's padded outputs to padded values
 #############################################
 
 
-speaker_encoder_type = 'x-vector'
+speaker_encoder_type = 'gst'
 expressive_encoder_type = 'vae'
 
 
-emotion_classes = 1
-speaker_classes = 1
+emotion_classes = 5
+speaker_classes = 5
 
 
 cat_lambda = 0.0
