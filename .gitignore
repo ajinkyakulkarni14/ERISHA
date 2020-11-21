@@ -9,7 +9,7 @@ __pycache__/
 # grid5k extensions
 *.stdout
 *.stderr
-
+events.out.*
 # Distribution / packaging
 .Python
 build/
