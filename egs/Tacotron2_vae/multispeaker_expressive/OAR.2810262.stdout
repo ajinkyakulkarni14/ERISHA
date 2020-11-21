@@ -1,0 +1,1 @@
+['train.py', '--output_directory=outdir', '--log_directory=logdir', '--n_gpus=4', '--group_name=group_2020_11_21-144756', '--rank=0']

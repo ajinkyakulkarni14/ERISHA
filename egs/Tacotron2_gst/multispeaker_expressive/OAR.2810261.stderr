@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/srv/storage/talc3@talc-data.nancy/multispeech/calcul/users/akulkarni/new_workspace/anaconda/envs/baseline_tts/lib/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/srv/storage/talc3@talc-data.nancy/multispeech/calcul/users/akulkarni/new_workspace/anaconda/envs/baseline_tts/lib/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/ajkulkarni/workplace/Phase_7/ERISHA/src/Tacotron2/multiproc.py", line 19, in <module>
+    "w")
+FileNotFoundError: [Errno 2] No such file or directory: 'logs/2020_11_21-144654_GPU_1.log'

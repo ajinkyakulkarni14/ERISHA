@@ -13,7 +13,7 @@ from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader
 
 from model import Tacotron2
-from data_utils import TextLoader, TextCollate
+from data_utils import ERISHALoader, ERISHACollate
 from loss_function import Tacotron2Loss
 from logger import Tacotron2Logger
 import hparams as hparams
@@ -43,9 +43,9 @@ def init_distributed(hparams, n_gpus, rank, group_name):
 
 def prepare_dataloaders(hparams):
     # Get data, data loaders and collate function ready
-    trainset = TextLoader(hparams.training_files, hparams)
-    valset = TextLoader(hparams.validation_files, hparams)
-    collate_fn = TextCollate(hparams.n_frames_per_step)
+    trainset = ERISHALoader(hparams.training_files, hparams)
+    valset = ERISHALoader(hparams.validation_files, hparams)
+    collate_fn = ERISHACollate(hparams.n_frames_per_step)
 
     if hparams.distributed_run:
         train_sampler = DistributedSampler(trainset)

@@ -2,7 +2,10 @@
 # Modified by Ajinkya Kulkarni
 
 from text import symbols
-
+################################
+# Global Parameters#
+################################
+language = 'English'
 
 ################################
 # Experiment Parameters#
@@ -42,7 +45,10 @@ mel_fmax=8000.0
 ################################
 # Model Parameters     #
 ################################
-n_symbols=len(symbols)
+if language == 'English':
+    n_symbols=len(symbols)
+else:
+    n_symbols = 36 # for French (to support input sequence for other languages)
 symbols_embedding_dim=256
 
 # Encoder parameters

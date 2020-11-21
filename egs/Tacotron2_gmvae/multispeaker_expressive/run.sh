@@ -5,4 +5,4 @@ export PATH=/srv/storage/talc3@talc-data.nancy/multispeech/calcul/users/akulkarn
 
 source activate baseline_tts
 
-python train.py --output_directory=outdir --log_directory=logdir
+python -m multiproc train.py --output_directory=outdir --log_directory=logdir

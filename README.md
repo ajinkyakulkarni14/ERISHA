@@ -29,6 +29,7 @@ Refer INSTALL for initial setup
 ## Available Features
 
 * [x] Resampling of speech waveforms to target sampling rate in recipes
+* [x] Support to train TTS system for other languages 
 
 ## Upcoming updates
 
