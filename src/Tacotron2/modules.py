@@ -76,6 +76,28 @@ class ExpressiveEncoderNetwork(nn.Module):
         
         return (embedding, cat_prob)
 
+class LanguageEncoderNetwork(nn.Module):
+    def __init__(self, hp):
+        super().__init__()
+        if hp.language_encoder_type == 'gst':
+            self.encoder = GST(hp, hp.language_classes)
+        elif hp.language_encoder_type == 'vae':
+            self.encoder = VAE(hp, hp.language_classes)
+        elif hp.language_encoder_type == 'gst_vae':
+            self.encoder = GST_VAE(hp, hp.language_classes)
+        elif hp.language_encoder_type == 'gmvae':
+            self.encoder = GMVAE(hp, hp.language_classes)
+        elif hp.language_encoder_type == 'x-vector':
+            self.encoder = X_vector(hp, hp.language_classes)
+        elif hp.language_encoder_type == 'vqvae':
+            pass#self.encoder =
+
+    def forward(self, inputs, input_lengths=None):
+        
+        embedding, cat_prob = self.encoder(inputs, input_lengths)
+        
+        return (embedding, cat_prob)
+
 class ReferenceEncoder(nn.Module):
     '''
     inputs --- [N, Ty/r, n_mels*r]  mels
@@ -260,7 +282,7 @@ class VAE(nn.Module):
         std = torch.exp(0.5 * latent_logvar)
         eps = torch.randn_like(std)
         z = eps.mul(std).add_(latent_mean)
-        cat_prob = F.softmax(self.categorical_layer(ze), dim=-1)
+        cat_prob = F.softmax(self.categorical_layer(z), dim=-1)
 
         return (z, (latent_mean, latent_logvar, cat_prob))
 

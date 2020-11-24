@@ -14,12 +14,12 @@ epochs=500
 iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
-fp16_run=True
-distributed_run=False
+fp16_run=False
+distributed_run=True
 dist_backend="nccl"
 dist_url="tcp://localhost:54321"
 cudnn_enabled=True
-cudnn_benchmark=False
+cudnn_benchmark=True
 ignore_layers=['embedding.weight']
 
 ################################
@@ -48,7 +48,7 @@ mel_fmax=8000.0
 if language == 'English':
     n_symbols=len(symbols)
 else:
-    n_symbols = 36 # for French (to support input sequence for other languages)
+    n_symbols = 38 # for French (to support input sequence for other languages)
 
 symbols_embedding_dim=256
 

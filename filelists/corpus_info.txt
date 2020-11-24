@@ -6,19 +6,37 @@ Speakers: 1, Male
 
 ## EmoVDB Corpus:
 
-Emotions: 5, Neutral, Anger, Amused, Disgust, Sleepiness
+Emotions: 5, Neutral, Anger, Disgust, Amused, , Sleepiness
+
+## French Emotional Corpus, propritery to INRIA, Multispeech team, Nancy, France:
+
+Emotions: 5, Neutral, Anger, Disgust, Joy, Surprise, Fear, Sadness, Disgust
 
 Speakers: 4, 2 Male, 2 Female
 
-# Emotion Index:
 
-Neutral		0
-Anger		1
-Amused		2
-Disgust		3
-Sleepiness	4
 
 # Speaker Index:
 0-3	EmoVDB corpus
 4	LJSSpeech corpus
+5-9	French speech corpus 0, 1, 2, 3, 4
+
+
+# Emotion Index:
+#0: neutral # 1: sad, # 2: disgust, #3: fear, #4: surprise #5: joy #6: anger #7: amused #8: sleepiness
+
+
+Total number of speakers: 10
+Total number of emotions: 9
+
+
+
+
+
+
+
+
+
+
+
 

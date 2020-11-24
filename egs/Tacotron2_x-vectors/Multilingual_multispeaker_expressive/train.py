@@ -12,10 +12,10 @@ import torch.distributed as dist
 from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader
 
-from model import Tacotron2
-from data_utils import ERISHALoader, ERISHACollate
-from loss_function import Tacotron2Loss
-from logger import Tacotron2Logger
+from model import Tacotron2Multilingual
+from data_utils import ERISHAMultiLingualLoader, ERISHAMultiLingualCollate
+from loss_function import TacotronMultilingual2Loss
+from logger import Tacotron2MultilingualLogger
 import hparams as hparams
 
 
@@ -43,9 +43,9 @@ def init_distributed(hparams, n_gpus, rank, group_name):
 
 def prepare_dataloaders(hparams):
     # Get data, data loaders and collate function ready
-    trainset = ERISHALoader(hparams.training_files, hparams)
-    valset = ERISHALoader(hparams.validation_files, hparams)
-    collate_fn = ERISHACollate(hparams.n_frames_per_step)
+    trainset = ERISHAMultiLingualLoader(hparams.training_files, hparams)
+    valset = ERISHAMultiLingualLoader(hparams.validation_files, hparams)
+    collate_fn = ERISHAMultiLingualCollate(hparams.n_frames_per_step)
 
     if hparams.distributed_run:
         train_sampler = DistributedSampler(trainset)
@@ -65,14 +65,14 @@ def prepare_directories_and_logger(output_directory, log_directory, rank):
         if not os.path.isdir(output_directory):
             os.makedirs(output_directory)
             os.chmod(output_directory, 0o775)
-        logger = Tacotron2Logger(os.path.join(output_directory, log_directory))
+        logger = Tacotron2MultilingualLogger(os.path.join(output_directory, log_directory))
     else:
         logger = None
     return logger
 
 
 def load_model(hparams):
-    model = Tacotron2(hparams).cuda()
+    model = Tacotron2Multilingual(hparams).cuda()
     if hparams.fp16_run:
         model.decoder.attention_layer.score_mask_value = finfo('float16').min
 
@@ -134,7 +134,7 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus,
             x, y, z = model.parse_batch(batch)
             #print(z)
             y_pred = model(x)
-            loss = criterion(i, y_pred, y, z[0], z[1])
+            loss = criterion(i, y_pred, y, z[0], z[1], z[2])
             if distributed_run:
                 reduced_val_loss = reduce_tensor(loss.data, n_gpus).item()
             else:
@@ -185,7 +185,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
 
     train_loader, valset, collate_fn = prepare_dataloaders(hparams)
 
-    criterion = Tacotron2Loss(hparams, len(train_loader))
+    criterion = TacotronMultilingual2Loss(hparams, len(train_loader))
 
     # Load checkpoint if one exists
     iteration = 0
@@ -217,7 +217,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             #print(z)
             y_pred = model(x)
 
-            loss = criterion(iteration, y_pred, y, z[0], z[1])
+            loss = criterion(iteration, y_pred, y, z[0], z[1], z[2])
             if hparams.distributed_run:
                 reduced_loss = reduce_tensor(loss.data, n_gpus).item()
             else:

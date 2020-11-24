@@ -5,8 +5,8 @@ from text import symbols
 ################################
 # Global Parameters#
 ################################
-language = 'English'
-
+language = 'English-French'
+english_id = 0
 ################################
 # Experiment Parameters#
 ################################
@@ -14,10 +14,10 @@ epochs=500
 iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
-fp16_run=True
+fp16_run=False
 distributed_run=True
 dist_backend="nccl"
-dist_url="tcp://localhost:54321"
+dist_url="tcp://localhost:54315"
 cudnn_enabled=True
 cudnn_benchmark=False
 ignore_layers=['embedding.weight']
@@ -26,8 +26,8 @@ ignore_layers=['embedding.weight']
 # Data Parameters     #
 ################################
 load_mel_from_disk=False
-training_files='../../../filelists/ljs_emovdb_train.txt'
-validation_files='../../../filelists/ljs_emovdb_val.txt'
+training_files='../../../filelists/English_French_train.txt'
+validation_files='../../../filelists/English_French_val.txt'
 text_cleaners=['english_cleaners']
 
 ################################
@@ -45,10 +45,7 @@ mel_fmax=8000.0
 ################################
 # Model Parameters     #
 ################################
-if language == 'English':
-    n_symbols=len(symbols)
-else:
-    n_symbols = 36 # for French (to support input sequence for other languages)
+n_symbols=len(symbols) + 36 + 2 # for English + French (to support input sequence for other languages)
 symbols_embedding_dim=256
 
 # Encoder parameters
@@ -98,11 +95,11 @@ mask_padding=True  # set model's padded outputs to padded values
 
 speaker_encoder_type = 'gmvae'
 expressive_encoder_type = 'gmvae'
+language_encoder_type = 'gmvae'
 
-
-emotion_classes = 5
-speaker_classes = 5
-
+emotion_classes = 9
+speaker_classes = 10
+language_classes = 2
 
 cat_lambda = 0.0
 cat_incr = 0.0001

@@ -5,7 +5,7 @@ from text import symbols
 ################################
 # Global Parameters#
 ################################
-language = 'English'
+language = 'French'
 
 ################################
 # Experiment Parameters#
@@ -15,11 +15,11 @@ iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
 fp16_run=False
-distributed_run=False
+distributed_run=True
 dist_backend="nccl"
-dist_url="tcp://localhost:54320"
+dist_url="tcp://localhost:54301"
 cudnn_enabled=True
-cudnn_benchmark=False
+cudnn_benchmark=True
 ignore_layers=['embedding.weight']
 
 ################################
@@ -48,7 +48,7 @@ mel_fmax=8000.0
 if language == 'English':
     n_symbols=len(symbols)
 else:
-    n_symbols = 36 # for French (to support input sequence for other languages)
+    n_symbols = 38 # for French (to support input sequence for other languages)
 
 symbols_embedding_dim=256
 
@@ -106,10 +106,10 @@ speaker_classes = 5
 
 
 cat_lambda = 0.0
-cat_incr = 0.0001
+cat_incr = 0.01
 cat_step = 1000
-cat_step_after = 500
-cat_max_step = 200000
+cat_step_after = 10
+cat_max_step = 300000
 
 kl_lambda = 0.00001
 kl_incr = 0.000001
@@ -134,7 +134,7 @@ num_heads=8
 token_embedding_size=256
 
 # gmvae
-num_mixtures = emotion_classes
+num_mixtures = 1
 
 # xvector
 input_dim = n_mel_channels

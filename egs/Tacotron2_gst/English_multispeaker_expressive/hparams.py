@@ -14,7 +14,7 @@ epochs=500
 iters_per_checkpoint=1000
 seed=1234
 dynamic_loss_scaling=True
-fp16_run=True
+fp16_run=False
 distributed_run=False
 dist_backend="nccl"
 dist_url="tcp://localhost:54321"
@@ -105,9 +105,9 @@ speaker_classes = 5
 
 
 cat_lambda = 0.0
-cat_incr = 0.00000001
+cat_incr = 0.01
 cat_step = 1000
-cat_step_after = 500
+cat_step_after = 10
 cat_max_step = 300000
 
 kl_lambda = 0.00001
@@ -138,24 +138,5 @@ num_mixtures = 1
 # xvector
 input_dim = n_mel_channels
 output_dim = token_embedding_size
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
