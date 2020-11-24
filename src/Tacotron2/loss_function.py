@@ -46,7 +46,7 @@ class Tacotron2Loss(nn.Module):
         elif (encoder_type == 'vae' or encoder_type == 'gst_vae') and (cat_lambda != 0.0 or kl_lambda !=0.0):
             loss = cat_lambda*(-self.entropy(cat_target, prob_[2]) - np.log(0.1)) + kl_lambda*self.KL_loss(prob_[0], prob_[1])
         elif encoder_type == 'gmvae' and (cat_lambda != 0.0 or kl_lambda !=0.0) :
-            loss = self.gaussian_loss(prob_[0], prob_[1], prob_[2], prob_[2], prob_[3])*kl_lambda + (-self.entropy(cat_target, prob_[4]) - np.log(0.1))*cat_lambda
+            loss = self.gaussian_loss(prob_[0], prob_[1], prob_[2], prob_[3], prob_[4])*kl_lambda + (-self.entropy(cat_target, prob_[5]) - np.log(0.1))*cat_lambda
         else:
             loss = 0.0
 
@@ -152,7 +152,7 @@ class TacotronMultilingual2Loss(nn.Module):
         elif (encoder_type == 'vae' or encoder_type == 'gst_vae') and (cat_lambda != 0.0 or kl_lambda !=0.0):
             loss = cat_lambda*(-self.entropy(cat_target, prob_[2]) - np.log(0.1)) + kl_lambda*self.KL_loss(prob_[0], prob_[1])
         elif encoder_type == 'gmvae' and (cat_lambda != 0.0 or kl_lambda !=0.0) :
-            loss = self.gaussian_loss(prob_[0], prob_[1], prob_[2], prob_[2], prob_[3])*kl_lambda + (-self.entropy(cat_target, prob_[4]) - np.log(0.1))*cat_lambda
+            loss = self.gaussian_loss(prob_[0], prob_[1], prob_[2], prob_[3], prob_[4])*kl_lambda + (-self.entropy(cat_target, prob_[5]) - np.log(0.1))*cat_lambda
         else:
             loss = 0.0
 
