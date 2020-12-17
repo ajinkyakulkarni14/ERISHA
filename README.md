@@ -4,8 +4,6 @@
 
 ![Multilingual Multispeaker Expressive Text-to-Speech Library](erisha.png)
 
-## Ajinkya Kulkarni, Ioannis Douros, Rituporna Dowerah, Vincent Colotte, Denis Jouvet
-
 <div align="left">
 
 ERISHA is a multilingual multispeaker expressive speech synthesis framework. It can transfer the expressivity to the speaker's voice for which no expressive speech corpus is available. The term ERISHA means speech in Sanskrit. The framework of ERISHA includes various deep learning architectures such as Global Style Token (GST), Variational Autoencoder  (VAE), and Gaussian Mixture Variational Autoencoder (GMVAE), and X-vectors for building prosody encoder. 
